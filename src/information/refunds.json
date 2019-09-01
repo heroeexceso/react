@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "description":"Farmacias y Perfumerias",
+        "day":"Lunes",
+        "amount":"100",
+        "percent":"20",
+        "limit":"500"
+    },
+    {
+        "id": "2",
+        "description":"Supermercados",
+        "day":"Martes",
+        "amount":"0",
+        "percent":"0",
+        "limit":"900"
+    },
+    {
+        "id": "3",
+        "description":"Combustible",
+        "day":"Miércoles",
+        "amount":"300",
+        "percent":"60",
+        "limit":"500"
+    },
+    {
+        "id": "4",
+        "description":"Hogar y Deco",
+        "day":"Jueves",
+        "amount":"0",
+        "percent":"0",
+        "limit":"500"
+    },
+    {
+        "id": "5",
+        "description":"Restaurantes",
+        "day":"Viernes",
+        "amount":"500",
+        "percent":"100",
+        "limit":"500"
+    },
+    {
+        "id": "6",
+        "description":"Mercado Libre",
+        "day":"Sábado y Domingo",
+        "amount":"450",
+        "percent":"90",
+        "limit":"500"
+    },
+    {
+        "id": "7",
+        "description":"Desayunos",
+        "day":"Todos los días",
+        "amount":"400",
+        "percent":"80",
+        "limit":"500"
+    }
+]
